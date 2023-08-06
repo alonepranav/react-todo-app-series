@@ -1,0 +1,73 @@
+.home {
+    height: 90vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(12, 4, 31);
+    color: #000;
+}
+
+.home .container {
+    height: 400px;
+    width: 330px;
+    border-radius: 3px;
+    background-color: #fff;
+    padding: 1rem;
+    text-align: center;
+}
+
+.todo {
+    margin: 10px 0;
+    padding: .5rem;
+    background: #e8e8e8;
+    border-radius: 5px;
+    height: 38px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.todo .icons {
+    display: flex;
+    gap: 15px;
+}
+
+::-webkit-scrollbar,
+::-webkit-scrollbar-track,
+::-webkit-scrollbar-button,
+::-webkit-scrollbar-corner,
+::-webkit-scrollbar-thumb {
+    visibility: hidden !important;
+    display: none !important;
+}
+
+.scroll {
+    scrollbar-color: transparent transparent;
+    width: 100%;
+    height: 250px;
+    overflow: scroll;
+}
+
+.todo .icons .icon {
+    font-size: 1.4rem;
+}
+
+.home form {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.home form input.input {
+    padding: 8px 10px;
+    width: 55%;
+}
+
+.home form input.button {
+    padding: 8px 10px;
+    width: 25%;
+    margin-left: 10px;
+}
+
+.home p.true {
+    text-decoration: 2px line-through black;
+}

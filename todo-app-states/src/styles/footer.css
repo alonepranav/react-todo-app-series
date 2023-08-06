@@ -1,0 +1,20 @@
+.footer {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: .7rem;
+    font-size: 1rem;
+    gap: 10px;
+}
+
+.footer .icons {
+    display: flex;
+    gap: 20px;
+}
+
+.footer .icons .icon {
+    color: rgb(0, 0, 0);
+    font-size: 1.5rem;
+}
