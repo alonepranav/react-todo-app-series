@@ -1,7 +1,11 @@
-# Todo App Series
+# Todo List - Redux
 
-### This Todo app is made using Redux.
+### This Todo list is made using Redux.
 
-#### Created : 8/6/2023
 
-#### Commited : 8/6/2023
+### Live Project Link : [ view here ](https://todo-app-redux-rumq.onrender.com/)
+
+<br/>
+
+### __Project Image :__
+![Project Preview Image](./public/preview.png)

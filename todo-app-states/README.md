@@ -1,7 +1,10 @@
-# Todo App Series
+# Todo List - State
 
-### This Todo app is made using React useStates hook.
+### This Todo list is made using React useStates hook.
 
-#### Created : 8/6/2023
+### Live Project Link : [ view here ](https://todo-app-states.onrender.com/)
 
-#### Commited : 8/6/2023
+<br/>
+
+### __Project Image :__
+![Project Preview Image](./public/preview.png)

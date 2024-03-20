@@ -1,7 +1,10 @@
-# Todo App Series
+# Todo List Series
 
-### This repository containg to apps made with different ways.
+### This repository contains Todo lists made with different ways by me while learning ReactJS.
+### Here I've made todo lists using Redux, Rect useState ook and React Context API.
 
-#### Created : 8/6/2023
+### __Project Images :__
 
-#### Commited : 8/6/2023
+![Project Preview Image](./todo-app-states/public/preview.png)
+![Project Preview Image](./todo-app-context/preview.png)
+![Project Preview Image](./todo-app-redux//public/preview.png)

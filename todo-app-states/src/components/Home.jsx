@@ -53,7 +53,7 @@ export default function Home() {
   return (
     <div className="home">
       <div className="container">
-        <h1>Todo App</h1>
+        <h1>Todo List</h1>
         <br />
         <br />
         <form onSubmit={addTodo}>

@@ -1,7 +1,10 @@
-# Todo App Series
+# Todo List - React Context API
 
-### This Todo app is made using React Context.
+### This Todo app is made using React Context API.
 
-#### Created : 8/6/2023
+### Live Project Link : [ view here ](https://todo-app-context.onrender.com/)
 
-#### Commited : 8/6/2023
+<br/>
+
+### __Project Image :__
+![Project Preview Image](./preview.png)

@@ -9,11 +9,11 @@ export default function Footer() {
         <p>[ Developer : Pranav ] Simple Todo app</p>
       </div>
       <div className="icons">
-        <a href="https://www.instagram.com/pranavshilavane">
+        <a href="https://www.instagram.com/pranavshilavane" target="_blank" rel="noopener noreferrer">
           <AiFillInstagram className="icon" />
         </a>
 
-        <a href="https://www.github.com/pranavshilavane">
+        <a href="https://www.github.com/pranavshilavane" target="_blank" rel="noopener noreferrer">
           <AiFillGithub className="icon" />
         </a>
       </div>
